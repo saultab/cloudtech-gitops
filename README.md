@@ -1,1 +1,1 @@
-# cloudtech-lab3-gitops
+# Cloudtech GitOps
